@@ -1,0 +1,3 @@
+.visualize svg path[fill^="none"] {
+  stroke-width: 0px;
+}
